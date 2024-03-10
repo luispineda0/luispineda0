@@ -12,7 +12,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- 
+- [Static Malware Analysis](https://youtu.be/hOblB5tbNkw)
 
 <h2> 🤳 Connect with me:</h2>
 
